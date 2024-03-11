@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+de44920b037d44687e1aaf0e633b635e5091aa3e refs/remotes/origin/accept-now
+658288e5ab474c61cc6b1f6898d53ebdd891cab5 refs/remotes/origin/dependabot/maven/junit-junit-4.13.1
+1e94fc8a92592ebf07c4221f752b2839aaf689e4 refs/remotes/origin/dependabot/maven/mysql-mysql-connector-java-8.0.28
+a9c8ee5f055aa7348f26032ea1ac210eec9600fe refs/remotes/origin/dependabot/maven/org.hibernate-hibernate-core-5.4.24.Final
+c474267299a7d61150299b0d8eb065874791a318 refs/remotes/origin/master
